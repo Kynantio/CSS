@@ -15,4 +15,4 @@ Latihan 6
 Latihan 7
 ![alt text](https://github.com/Kynantio/CSS/blob/master/Screenshot%20latihan%207.PNG)
 Latihan 8
-![alt text](https://github.com/Kynantio/CSS/blob/master/Screenshot%20latihan%208.PNG]
+![alt text](https://github.com/Kynantio/CSS/blob/master/Screenshot%20latihan%208.PNG)
